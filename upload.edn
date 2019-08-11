@@ -1,0 +1,8 @@
+
+{:host "topix.im"
+ :uploads [{:from "dist/*"
+            :to "cdn/file-paste/"}
+           {:from "dist/{index.html,manifest.json}"
+            :to "repo/TopixIM/file-paste/"}
+           {:from "dist/{server.js,package.json}"
+            :to "servers/file-paste/"}]}
