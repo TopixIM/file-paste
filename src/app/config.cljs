@@ -19,7 +19,7 @@
 (def site
   {:port 11018,
    :title "File paste",
-   :icon "http://cdn.tiye.me/logo/topixim.png",
+   :icon "http://cdn.tiye.me/logo/topix.png",
    :dev-ui "http://localhost:8100/main.css",
    :release-ui "http://cdn.tiye.me/favored-fonts/main.css",
    :cdn-url "http://cdn.tiye.me/file-paste/",
